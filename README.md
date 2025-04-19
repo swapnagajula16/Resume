@@ -13,7 +13,7 @@ This is a simple and clean single-page portfolio designed to:
 - Provide contact links for networking and collaboration.
 
 ## 🌐 Live Preview
-
+[Resume](https://swapnagajula16.github.io/Resume/)
 
 
 ## 🛠️ Built With
